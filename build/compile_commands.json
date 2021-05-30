@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/main.cpp.o -c /home/matrix-master/main.cpp",
+  "file": "/home/matrix-master/main.cpp"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/bdf-font.cc.o -c /home/matrix-master/lib/bdf-font.cc",
+  "file": "/home/matrix-master/lib/bdf-font.cc"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/content-streamer.cc.o -c /home/matrix-master/lib/content-streamer.cc",
+  "file": "/home/matrix-master/lib/content-streamer.cc"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/framebuffer.cc.o -c /home/matrix-master/lib/framebuffer.cc",
+  "file": "/home/matrix-master/lib/framebuffer.cc"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/gpio.cc.o -c /home/matrix-master/lib/gpio.cc",
+  "file": "/home/matrix-master/lib/gpio.cc"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/graphics.cc.o -c /home/matrix-master/lib/graphics.cc",
+  "file": "/home/matrix-master/lib/graphics.cc"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/gcc-8  -I/home/matrix-master/include  -g   -o CMakeFiles/led.dir/lib/hardware-mapping.c.o   -c /home/matrix-master/lib/hardware-mapping.c",
+  "file": "/home/matrix-master/lib/hardware-mapping.c"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/led-matrix-c.cc.o -c /home/matrix-master/lib/led-matrix-c.cc",
+  "file": "/home/matrix-master/lib/led-matrix-c.cc"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/led-matrix.cc.o -c /home/matrix-master/lib/led-matrix.cc",
+  "file": "/home/matrix-master/lib/led-matrix.cc"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/multiplex-mappers.cc.o -c /home/matrix-master/lib/multiplex-mappers.cc",
+  "file": "/home/matrix-master/lib/multiplex-mappers.cc"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/options-initialize.cc.o -c /home/matrix-master/lib/options-initialize.cc",
+  "file": "/home/matrix-master/lib/options-initialize.cc"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/pixel-mapper.cc.o -c /home/matrix-master/lib/pixel-mapper.cc",
+  "file": "/home/matrix-master/lib/pixel-mapper.cc"
+},
+{
+  "directory": "/home/matrix-master/build",
+  "command": "/bin/g++-8   -I/home/matrix-master/include   -std=c++11 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/led.dir/lib/thread.cc.o -c /home/matrix-master/lib/thread.cc",
+  "file": "/home/matrix-master/lib/thread.cc"
+}
+]
